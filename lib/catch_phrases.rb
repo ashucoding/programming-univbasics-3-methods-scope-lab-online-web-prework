@@ -1,5 +1,5 @@
 def supermario_brothers = mario
-  
+  puts phrase
   phrase = "It's-a me, Mario!"
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
