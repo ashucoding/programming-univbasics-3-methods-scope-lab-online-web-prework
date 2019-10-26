@@ -5,7 +5,7 @@ def supermario_brothers = mario
 end
 
 def toadstool
-  puts $status
+  return $status
 end
 
 def link
